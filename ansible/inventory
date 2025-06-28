@@ -1,0 +1,2 @@
+[web]
+<REEMPLAZAR_CON_IP_PUBLICA> ansible_user=azureuser ansible_password=Password1234 ansible_connection=ssh ansible_python_interpreter=/usr/bin/python3
